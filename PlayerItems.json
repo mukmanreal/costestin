@@ -1,1 +1,19 @@
+{
+  "players": [
+    {
+      "playerId": "PLAYFAB_ID_1",
+      "items": [
+        "cowboyhat",
+        "fez",
+        "earlyaccess"
+      ]
+    },
+    {
+      "playerId": "PLAYFAB_ID_2",
+      "items": [
+        "everything"
+      ]
+    }
+  ]
+}
 
