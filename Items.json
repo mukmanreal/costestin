@@ -1,1 +1,40 @@
+{
+  "items": [
+    {
+      "id": "cowboyhat",
+      "displayName": "Cowboy Hat",
+      "slot": "Hat"
+    },
+    {
+      "id": "fez",
+      "displayName": "Fez",
+      "slot": "Hat"
+    },
+    {
+      "id": "sunglasses",
+      "displayName": "Sunglasses",
+      "slot": "Face"
+    },
+    {
+      "id": "tophat",
+      "displayName": "Top Hat",
+      "slot": "Hat"
+    },
+    {
+      "id": "coconut",
+      "displayName": "Coconut",
+      "slot": "Hand"
+    },
+    {
+      "id": "earlyaccess",
+      "displayName": "Early Access",
+      "slot": "Badge"
+    },
+    {
+      "id": "AdministratorBadge",
+      "displayName": "Administrator Badge",
+      "slot": "Badge"
+    }
+  ]
+}
 
